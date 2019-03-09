@@ -11,6 +11,7 @@ body {
   display: -moz-box;
   display: -ms-flexbox;
   display: flex;
+  font-style: normal;
   /*add xtra line*/
 }
 
@@ -24,6 +25,7 @@ h1 {
           transform-origin: 20% 40%;
   color: black;
   text-align: center;
+   font-style: normal;
 }
 
 p {
@@ -32,6 +34,7 @@ p {
 	         transform-origin: 120% 40%;
   font-family: verdana;
   font-size: 220px;
+   font-style: normal;
 }
 h3 {
 	display: -webkit-flex;
@@ -69,6 +72,7 @@ h3 {
         border: 1px solid #000;
         opacity: 1;
         background-color: #fff;
+		font-style: normal;
     }
     
     .copy {
